@@ -1,0 +1,73 @@
+/* .header{
+    width: 1595.79px;
+    height: 53.72px;
+    
+}
+.header-items{
+    width: 912.79px;
+    height: 53.72px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo{
+    width: 198.79px;
+    height: 53.72px;
+}
+.navigation{
+    width: 564px;
+    height: 23px;
+    display: flex;
+    justify-content: space-between;
+}
+.li-item{
+    display: flex;
+} */
+/* main */
+.banner{
+    width: 1920px;
+    height: 450px;
+}
+.container{
+    width: 1400px;
+    height: 1901px;
+}
+.services{
+    width: 936px;
+    height: 1081px;
+}
+.div-description{
+    width: 936px;
+    height: 267px;
+}
+.top-div{
+    width: 936px;
+    height: 252px;
+    display: flex;
+    justify-content: space-around;
+}
+.image-div{
+    width: 379px;
+    height: 252px;
+}
+.text-div{
+    width: 537px;
+    height: 252px;
+    
+}
+.bottom-div{
+    width: 936px;
+    height: 252px;
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    width: 447px;
+    height: 162px;
+}
+.content{
+    width: 936px;
+    height: 142px;
+}
+
+/* footer */
