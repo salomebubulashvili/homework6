@@ -23,10 +23,13 @@
     
 }
 .navigation li{
+    display: flex;
     justify-content: space-between;
     align-items: center;
     margin-right: 20px;
+    color: #274C5B;
 }
+
 /* main */
 .banner{
     width: 1920px;
